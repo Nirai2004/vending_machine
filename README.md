@@ -1,4 +1,4 @@
-###🧩 Module Description
+#🧩 Module Description
 ##🧠 FSM States
 State	Description
 IDLE	Waits for product selection. Initializes all values.
